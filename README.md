@@ -1,5 +1,5 @@
-Limitations of Deuterium Labelling for Quantifying NADPH Metabolism in heterotrophic Arabidopsis Cell Cultures 
-Metabolites 2019, 9, x; doi
+Limitations of Deuterium-Labelled Substrates for Quantifying NADPH Metabolism in Heterotrophic Arabidopsis Cell Cultures 
+Metabolites 2019, 9(10), 205; https://doi.org/10.3390/metabo9100205 
 
 Code used for data analysis and generating figures
 
